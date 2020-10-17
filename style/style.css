@@ -1,4 +1,7 @@
 body {
-	background-color: black;
-	color: white;
+	background-color: #FF33FB;
+	color:black;
+}
+p {
+text-size:300px;
 }
